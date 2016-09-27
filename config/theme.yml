@@ -1,0 +1,6 @@
+name: childtheme
+parent: classic
+display_name: Child Theme
+
+assets:
+  use_parent_assets: true
